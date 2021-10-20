@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "have to go office",
+      "day": "October 10 at 12:00",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "have to go market",
+      "day": "October 10 at 12:00",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Learn devOps",
+      "day": "October 30 at 12:00",
+      "reminder": true
+    },
+    {
+      "id": 53,
+      "text": "Complete vuejs",
+      "day": "October 20 at 6:00pm",
+      "reminder": true
+    }
+  ],
+  "helps": [
+    {
+      "help": "It is not recording properly",
+      "id": 1
+    }
+  ]
+}
